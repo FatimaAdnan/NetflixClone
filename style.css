@@ -1,0 +1,41 @@
+.log-btn{
+    background-color: #E50914;
+border: none;
+border-radius: 6px;
+color: white;
+padding:6px ;
+width: 80px;
+transition: 0.4s;
+}
+.log-btn:hover{
+    background-color: #a40911;
+}
+
+.hero{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(hero.jpg);
+    height: 100vh;
+    background-position: center ;
+}
+
+.inp{
+    width: 50%;
+}
+.email-btn{
+    background-color: #E50914;
+border: none;
+border-radius: 6px;
+color: white;
+padding:6px ;
+width: 120px;
+transition: 0.4s;
+}
+
+.tv-section{
+    background-color: #000000;
+    height: 80vh;
+    border-top: 7px solid gray;
+}
+.tv-section1{
+    background-color: #000000;
+    border-top: 7px solid gray;
+}
